@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 🐝 I'm working on a godot game
 - 💻 I'm a university student
+- 🈲 I'm a Hong Konger
 
 <!---
 saaaaamuel/saaaaamuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
