@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 🐝 I'm working on a godot game
-- 💻 I'm a university student
+- 🐬 I love dolphin
 - 🇭🇰 I'm a Hong Konger
 
 <!---
